@@ -1,2 +1,2 @@
-# three-kingdoms-kill
-Game for three-kingdoms-kill
+# three-kingdom-kill
+Game for three-kingdom-kill
