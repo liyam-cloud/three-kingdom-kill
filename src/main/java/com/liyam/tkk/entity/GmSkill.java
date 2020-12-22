@@ -5,9 +5,9 @@ package com.liyam.tkk.entity;
  * @Date: 2020/12/21/021 17:42
  * @Company: @sino   
  */
-public class Skill {
-  private Long sId; // 技能id
-  private String sName; // 技能名称
+public class GmSkill {
+  private Long gsId; // 技能idg
+  private String gsName; // 技能名称
   private String remarks; // 技能描述
 
 }
